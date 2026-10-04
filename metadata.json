@@ -1,0 +1,6 @@
+{
+  "name": "Kids English: Look & Describe 英语外貌特征大冒险",
+  "description": "小学英语外貌特征单词互动教学游戏平台，生动学习 short, thin, straight, blonde, moustache, beard, fat, fair, ugly 等单词，内含轻松背景音乐、神探找人、捏脸造人与备课教室工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
